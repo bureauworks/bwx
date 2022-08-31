@@ -1,6 +1,11 @@
 # Bureau Works API Command Line Interface and NodeJS module
 This repository contains a JavaScript library that can be used to access the Bureau Works API. It also includes a CLI written in NodeJS that facilitates API calls from the command line.
 
+**ATTENTION**
+
+**This version of our CLI is only compatible with 1.0 projects**. 1.0 Projects are deprecated and entering EOL. We are actively working on a new version of our CLI that includes 2.0 projects, support for translation memory and glossary operations, localization kits, among other functionalities present in BWX.
+
+
 ## Requirements
 
 You need a Bureau Works account and API KEY. Please visit https://www.bureauworks.com to get yours!
